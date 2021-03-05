@@ -9,7 +9,7 @@ import groovy.io.FileType
 //https://stackoverflow.com/questions/48566158/how-to-create-text-file-using-groovy/48566868
 class Ex0 {
 
-    static final path = "E:\\lev\\ekronot\\Ex0\\files\\"
+    static final path = "E:\\lev\\ekronot\\Ex0\\ext\\"
 
     static void main(args) {
         //
